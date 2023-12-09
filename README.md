@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mahbuba Haq Muna</h1>
 <h3 align="center">I'm a junior frontend developer on a mission to learn and grow in the world of web development.</h3>
 <p align="left">
-🚀 Currently exploring the realms of React.js, Express.js, Node.js, and MongoDB to build exciting and dynamic web applications. I may be new to the game, but my passion for coding knows no bounds.
+🚀  Passionate about crafting seamless web experiences using React.js, Express.js, Node.js, and MongoDB. I may be new to the game, but my passion for coding knows no bounds.
 
 🌱 I thrive on learning and experimenting with new technologies. My focus is on mastering the basics and gradually leveling up my skills in frontend and backend development.
 
