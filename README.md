@@ -1,13 +1,13 @@
 ![Banner](https://github.com/mahbuba-haq-muna/mahbuba-haq-muna/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Mahbuba Haq Muna</h1>
-<h3 align="center">I'm a junior frontend developer on a mission to learn and grow in the world of web development.</h3>
+<h3 align="center">Junior frontend developer</h3>
 <p align="left">
 🚀  Passionate about crafting seamless web experiences using React.js, Express.js, Node.js, and MongoDB. I may be new to the game, but my passion for coding knows no bounds.
 
 🌱 I thrive on learning and experimenting with new technologies. My focus is on mastering the basics and gradually leveling up my skills in frontend and backend development.
 
-💡 Excited about the endless possibilities these technologies offer and keen on contributing to open source projects. Check out my repositories to witness my coding journey as I build and learn.
+💡 Excited about the endless possibilities these technologies offer and keen on contributing to open source projects. Check out my repositories to witness my coding journey as I build and learn. Reach out to me at [muna3828@gmail.com]
 
 Happy coding! 💻✨
 
