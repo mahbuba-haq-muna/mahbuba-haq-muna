@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mahbuba Haq Muna</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<h3 align="left">
+🚀 Currently exploring the realms of React.js, Express.js, Node.js, and MongoDB to build exciting and dynamic web applications. I may be new to the game, but my passion for coding knows no bounds.
 
+🌱 I thrive on learning and experimenting with new technologies. My focus is on mastering the basics and gradually leveling up my skills in frontend and backend development.
+
+💡 Excited about the endless possibilities these technologies offer and keen on contributing to open source projects. Check out my repositories to witness my coding journey as I build and learn.
+
+Happy coding! 💻✨
+
+</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahbuba-muna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahbuba-muna" height="30" width="40" /></a>
